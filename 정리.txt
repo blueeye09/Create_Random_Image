@@ -1,0 +1,5 @@
+HTML: 뼈대를 구성함
+CSS: 스타일을 구성함
+JavaScript: 동적 처리를 구현함
+웹 사이트의 기본 시각적 요소: HTML, CSS로 구성
+동적인 요소: JavaScript통해 완성
